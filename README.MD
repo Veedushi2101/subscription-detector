@@ -63,7 +63,7 @@ subscription-detector/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/subscription-detector.git
+git clone https://github.com/Veedushi2101/subscription-detector.git
 cd subscription-detector
 ```
 
