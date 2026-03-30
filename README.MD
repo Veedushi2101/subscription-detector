@@ -12,7 +12,7 @@ In today’s digital world, users subscribe to multiple services such as streami
 * Are often forgotten
 * Deduct small amounts regularly
 
-**Over time, this leads to **unnoticed financial loss**
+**Over time, this leads to unnoticed financial loss**
 
 ---
 
