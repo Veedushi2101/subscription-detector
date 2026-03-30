@@ -103,7 +103,7 @@ Date,Amount,Description
 
 ---
 
-## ▶️ How It Works (Step-by-Step)
+## How It Works (Step-by-Step)
 
 ### 1. Data Cleaning
 
@@ -222,7 +222,7 @@ A user uploads their bank statement and discovers:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project:
 
